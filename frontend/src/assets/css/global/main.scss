@@ -1,0 +1,8 @@
+@import "@/assets/css/font/roboto/index.css";
+@import "@/assets/css/font/roboto-condensed/index.css";
+
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    background: var(--BG_back, radial-gradient(98.93% 55.04% at 76.05% 55.01%, #F1F4FF 2.19%, rgba(241, 244, 255, 0.10) 92.08%), #DEEAFC);
+}
